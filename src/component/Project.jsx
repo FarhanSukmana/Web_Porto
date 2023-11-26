@@ -1,7 +1,7 @@
 import React from 'react'
 import movieflix from '../assets/Movieflix.png'
 import musichub from '../assets/Musichub.png'
-import porto from '../assets/Web_porto.png'
+import porto from '../assets/web_porto.png'
 import lapis from '../assets/Lapis.png'
 import ProjectItem from './ProjectItem'
 
